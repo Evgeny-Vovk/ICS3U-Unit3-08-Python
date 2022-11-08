@@ -5,7 +5,7 @@
 # ICS3U-Unit3-08.py File,
 # learning nested if statements in python.
 
- 
+
 def main():
 
     # input and variables
